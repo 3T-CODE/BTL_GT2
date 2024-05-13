@@ -5,9 +5,11 @@
 
 ## Lưu đồ giải thuật 
 - Câu 1 :
+  
 ![LDGT_Cau1 drawio](https://github.com/3T-CODE/BTL_GT2/assets/84315264/a14512b6-b69d-4e6e-b1ad-945500eb7501)
 
-- Câu 2 : 
+- Câu 2 :
+
 ![LDGT_Cau2 drawio](https://github.com/3T-CODE/BTL_GT2/assets/84315264/39df9d5d-4cbd-4105-ba79-f4e8c11c4d7d)
 
 ## Video hướng dẫn
