@@ -27,3 +27,5 @@ https://github.com/3T-CODE/BTL_GT2/assets/84315264/a6361b9e-4857-48d4-9655-16197
 https://github.com/3T-CODE/BTL_GT2/assets/84315264/26bb8b8d-b790-4477-9c4c-dce12f72ce04
 
 
+## Hình ảnh kết quả của ví dụ mẫu 
+![Output](https://github.com/3T-CODE/BTL_GT2/assets/84315264/fd21ec49-2640-484f-ba71-fd8e2cad97bd)
